@@ -43,8 +43,8 @@ Open-source **[Django Template](https://github.com/nimaprgrmr?tab=repositories)*
 > UNZIP the sources or clone the repository. After getting the code, open a terminal and navigate to the working directory, with product source code.
 
 ```bash
-$ git clone https://github.com/app-generator/django-black-dashboard.git
-$ cd django-black-dashboard
+$ git clone https://github.com/nimaprgrmr/black-dashboard-django-master.git
+$ cd black-dashboard-django-master
 ```
 
 <br />
